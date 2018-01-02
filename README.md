@@ -1,2 +1,2 @@
-# clojuretime
+# Clojure Time!
 Clojure Time
